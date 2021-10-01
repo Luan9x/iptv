@@ -739,7 +739,7 @@ http://gg.gg/cocahbo
 #EXTINF:0 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3MqibtR0kleXt_5myrfzumOlwX5qntnnWsk0jHoOPwL2znY94NTgJrmcB4IBhzzADV8&usqp=CAU",Cinemax
 http://gg.gg/cocamax
 
-#EXTINF:0  tvg-id="cinema_world" group-title="QUỐC TẾ" tvg-logo="https://cinemaworld.asia/wp-content/themes/cinema/broken/loading-com.gif",Cinema World
+#EXTINF:0  tvg-id="cinema_world" group-title="QUỐC TẾ" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
 http://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0  tvg-id="warner_tv_hd" group-title="QUỐC TẾ" tvg-logo="https://i.pinimg.com/originals/79/42/27/7942275bccc3ba8a635b9d88d34efdd1.png",Warner TV
@@ -817,4 +817,3 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/dc/CCTV-5_%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png/revision/latest?cb=20190224081358&path-prefix=ru",CCTV5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-
