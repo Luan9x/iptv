@@ -38,7 +38,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9 HD
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 group-title="ĐỊA PHƯƠNG" tvg-logo="https://logos.fandom.com/vi/wiki/%C4%90%C3%A0i_PT-TH_t%E1%BB%89nh_H%C3%B2a_B%C3%ACnh?file=HBTV_HD_logo_2021.pnggo.jpg/revision/latest?cb=20170122110434",  Hoà Bình HD
+#EXTINF:0 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/IKwPc71.png",  Hoà Bình HD
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 
 #EXTINF:0 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png",VTC1 HD"
