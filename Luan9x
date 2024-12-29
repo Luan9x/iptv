@@ -2,21 +2,20 @@
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/vZYlGIW.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+http://p1.cvtv.xyz/vtv1?token=live
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv2hd.jpg", VTV2 HD
-http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+http://str1.cvtv.xyz/vtv2?token=live
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv3hd.jpg", VTV3 HD
-http://donglao.duckdns.org/vn360sport/viettel.php?id=4
+http://p1.cvtv.xyz/vtv3?token=live
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv4hd.jpg", VTV4 HD
 http://donglao.duckdns.org/vn360sport/viettel.php?id=108
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hd.jpg", VTV5 HD
-http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-
+https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hdtnb.png", VTV5 HD - TÂY NAM BỘ
-http://donglao.duckdns.org/vn360sport/viettel.php?id=157
+http://103.47.194.152/VTV5TNB/mpegts
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hdtn.png", VTV5 HD - TÂY NGUYÊN
 http://donglao.duckdns.org/vn360sport/viettel.php?id=207
@@ -25,14 +24,11 @@ http://donglao.duckdns.org/vn360sport/viettel.php?id=207
 http://donglao.duckdns.org/vn360sport/viettel.php?id=98
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv7hd.jpg", VTV7 HD
-http://donglao.duckdns.org/vn360sport/viettel.php?id=6
-
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv8hd.jpg", VTV8 HD
-http://donglao.duckdns.org/vn360sport/viettel.php?id=115
-
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv9hd.jpg", VTV9 HD
-http://donglao.duckdns.org/vn360sport/viettel.php?id=8
-
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="hoabinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/1jPcCju.png",HBTV HD
 https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 
