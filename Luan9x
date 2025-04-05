@@ -10,7 +10,7 @@ http://p1.cvtv.xyz/vtv2?token=live
 http://p1.cvtv.xyz/vtv3?token=live
 
 #EXTINF:-1 tvg-id="vtv4t2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VTV4_HD_logo_Tet_2016.png/revision/latest?cb=20221205094511&path-prefix=vi", VTV4 HD
-http://p1.cvtv.xyz/vtv4?token=live
+http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/VTV5_HD_logo_Tet_2016.png/revision/latest?cb=20221211120119&path-prefix=vi", VTV5 HD
 http://p1.cvtv.xyz/vtv5?token=live
