@@ -14,6 +14,8 @@ http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/VTV5_HD_logo_Tet_2016.png/revision/latest?cb=20221211120119&path-prefix=vi", VTV5 HD
 http://p1.cvtv.xyz/vtv5?token=live
+#EXTINF:-1 tvg-id="hbtv" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HBTV_logo_Tet_2015.png/revision/latest?cb=20220804110707&path-prefix=vi",HBTV HD
+hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvctt2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VTV_C%E1%BA%A7n_Th%C6%A1_logo_Tet_2014.png/revision/latest?cb=20240929133738&path-prefix=vi", VTV Cần Thơ
 http://p1.cvtv.xyz/vtvct?token=live
