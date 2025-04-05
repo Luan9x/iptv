@@ -12,23 +12,21 @@ http://p1.cvtv.xyz/vtv3?token=live
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VTV4_HD_logo_Tet_2016.png/revision/latest?cb=20221205094511&path-prefix=vi", VTV4 HD
 http://p1.cvtv.xyz/vtv4?token=live
 
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hd.jpg", VTV5 HD
-https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/VTV5_HD_logo_Tet_2016.png/revision/latest?cb=20221211120119&path-prefix=vi", VTV5 HD
+http://p1.cvtv.xyz/vtv5?token=live
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hdtnb.png", VTV5 HD - TÂY NAM BỘ
 http://103.47.194.152/VTV5TNB/mpegts
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hdtn.png", VTV5 HD - TÂY NGUYÊN
-http://donglao.duckdns.org/vn360sport/viettel.php?id=207
+http://p1.cvtv.xyz/vtv5tn?token=live
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv6hd.jpg", VTV CẦN THƠ HD
-http://donglao.duckdns.org/vn360sport/viettel.php?id=98
 
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv7hd.jpg", VTV7 HD
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv8hd.jpg", VTV8 HD
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv9hd.jpg", VTV9 HD
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/VTV7_Tet_2016%2C_2017%2C_2018.png/revision/latest?cb=20230404022123&path-prefix=vi", VTV7 HD
+http://p1.cvtv.xyz/vtv7?token=live
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/90/VTV8_HD_logo_Tet_2016.png/revision/latest?cb=20230820044349&path-prefix=vi", VTV8 HD
+http://p1.cvtv.xyz/vtv8?token=live
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/VTV9_logo_Tet_2010.png/revision/latest?cb=20240826072456&path-prefix=vi", VTV9 HD
+http://p1.cvtv.xyz/vtv9?token=live
 #EXTINF:-1 tvg-id="hoabinh" group-title="Địa phương" tvg-logo="https://i.imgur.com/1jPcCju.png",HBTV HD
 https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 
