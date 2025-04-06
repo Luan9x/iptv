@@ -72,8 +72,8 @@ http://84.16.253.234:2082/S2S99999XTX5/Uf7r75t67/283
 #EXTINF:-1 tvg-id="paramountnetwork" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/Paramount_Global.png/revision/latest?cb=20220219132741&path-prefix=vi" group-title="QUỐC TẾ",Paramount Network
 http://thevdm.xyz:25461/timmadden/timmad4765/44134
 
-#EXTINF:-1 tvg-id="sochi-live" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/pH3Q1jn.png",Sochi Live
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="natwild" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/Nat_Geo_Wild_HD.png/revision/latest?cb=20220208063837&path-prefix=vi",National Geographic Wild
+http://thevdm.xyz:25461/timmadden/timmad4765/44098
 index.m3u8
 
 #EXTINF:-1 tvg-id="tamyr" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="QUỐC TẾ",Тамыр
