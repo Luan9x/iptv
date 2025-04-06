@@ -9,13 +9,17 @@ http://p1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 tvg-id="vtv3t2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/VTV3_logo_Tet_2013.png/revision/latest?cb=20250119121652&path-prefix=vi", VTV3 HD
 http://p1.cvtv.xyz/vtv3?token=live
 
-#EXTINF:-1 tvg-id="vtv4t2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VTV4_HD_logo_Tet_2016.png/revision/latest?cb=20221205094511&path-prefix=vi", VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VTV4_HD_logo_Tet_2016.png/revision/latest?cb=20221205094511&path-prefix=vi", VTV4 HD
 http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/VTV5_HD_logo_Tet_2016.png/revision/latest?cb=20221211120119&path-prefix=vi", VTV5 HD
 http://p1.cvtv.xyz/vtv5?token=live
 #EXTINF:-1 tvg-id="hbtv" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HBTV_logo_Tet_2015.png/revision/latest?cb=20220804110707&path-prefix=vi",HBTV HD
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/Cartoon_Network_2004.png/revision/latest?cb=20230404102111&path-prefix=vi",Cartoon Network
+http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
+
 
 #EXTINF:-1 tvg-id="vtvctt2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VTV_C%E1%BA%A7n_Th%C6%A1_logo_Tet_2014.png/revision/latest?cb=20240929133738&path-prefix=vi", VTV Cần Thơ
 http://p1.cvtv.xyz/vtvct?token=live
