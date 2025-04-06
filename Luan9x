@@ -46,7 +46,7 @@ https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://175.107.244.52:4457/play/a07f/index.m3u8
 
-#EXTINF:-1 tvg-id="discovery" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/uxK7dGH.png",Discovery Channel
+#EXTINF:-1 tvg-id="discovery" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/Discovery_Channel.png/revision/latest?cb=20240103022304&path-prefix=vi",Discovery Channel
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://thevdm.xyz:25461/timmadden/timmad4765/31434
 
