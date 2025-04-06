@@ -54,9 +54,8 @@ http://thevdm.xyz:25461/timmadden/timmad4765/31434
 #EXTINF:-1 tvg-id="animalplanet" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/Animal_Planet_2018.png/revision/latest?cb=20240103022303&path-prefix=vi",Animal Planet
 http://thevdm.xyz:25461/timmadden/timmad4765/43991
 
-#EXTINF:-1 tvg-id="piatnica-int" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница International
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s50/index.m3u8
+#EXTINF:-1 tvg-id="outdoor" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/Outdoor_logo.png/revision/latest?cb=20231230015004&path-prefix=vi",Outdoor Channel
+http://thevdm.xyz:25461/timmadden/timmad4765/44122
 
 #EXTINF:-1 tvg-id="zvezda" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
