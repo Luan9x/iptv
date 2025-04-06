@@ -50,8 +50,8 @@ http://175.107.244.52:4457/play/a07f/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://thevdm.xyz:25461/timmadden/timmad4765/31434
 
-#EXTINF:-1 tvg-id="spas" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/JBDdOqq.jpg",СПАС ТВ
-http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1 tvg-id="animalplanet" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/Animal_Planet_2018.png/revision/latest?cb=20240103022303&path-prefix=vi",СПАС ТВ
+http://thevdm.xyz:25461/timmadden/timmad4765/43991
 
 #EXTINF:-1 tvg-id="piatnica-int" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница International
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
