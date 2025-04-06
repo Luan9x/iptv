@@ -46,9 +46,9 @@ https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://175.107.244.52:4457/play/a07f/index.m3u8
 
-#EXTINF:-1 tvg-id="rentv-int" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/uxK7dGH.png",REN TV
+#EXTINF:-1 tvg-id="discovery" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/uxK7dGH.png",Discovery Channel
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s85/04.m3u8
+http://thevdm.xyz:25461/timmadden/timmad4765/31434
 
 #EXTINF:-1 tvg-id="spas" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/JBDdOqq.jpg",СПАС ТВ
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
