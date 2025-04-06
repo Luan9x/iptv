@@ -66,11 +66,11 @@ http://thevdm.xyz:25461/timmadden/timmad4765/52174
 #EXTINF:-1 tvg-id="hbosignature" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/HBO_Signature.png/revision/latest?cb=20231212234827&path-prefix=vi",HBO Signature
 http://thevdm.xyz:25461/timmadden/timmad4765/34484
 
-#EXTINF:-1 tvg-id="hboxtremehd" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg",HBO Xtreme
+#EXTINF:-1 tvg-id="hboxtreme" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg",HBO XTREME
 http://84.16.253.234:2082/S2S99999XTX5/Uf7r75t67/283
 
-#EXTINF:-1 tvg-id="sochi24" tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="QUỐC TẾ",Сочи 24 ТВ
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="paramount" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/Paramount_Global.png/revision/latest?cb=20220219132741&path-prefix=vi" group-title="QUỐC TẾ",Paramount
+http://thevdm.xyz:25461/timmadden/timmad4765/44134
 
 #EXTINF:-1 tvg-id="sochi-live" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/pH3Q1jn.png",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
