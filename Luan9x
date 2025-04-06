@@ -42,9 +42,9 @@ https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tvci" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВЦ
+#EXTINF:-1 tvg-id="axn" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/fIkd01t.png",AXN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s54/04.m3u8
+http://170.254.18.106/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/uxK7dGH.png",REN TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
