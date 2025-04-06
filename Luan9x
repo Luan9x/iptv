@@ -17,12 +17,6 @@ http://p1.cvtv.xyz/vtv5?token=live
 #EXTINF:-1 tvg-id="hbtv" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HBTV_logo_Tet_2015.png/revision/latest?cb=20220804110707&path-prefix=vi",HBTV HD
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cartoonnetwork" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/Cartoon_Network_2004.png/revision/latest?cb=20230404102111&path-prefix=vi",Cartoon Network
-http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
-
-#EXTINF:-1 tvg-id="disneyjunior" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/Disney_Junior.png/revision/latest?cb=20221214050509&path-prefix=vi",Disney Junior
-https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-
 
 #EXTINF:-1 tvg-id="vtvctt2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VTV_C%E1%BA%A7n_Th%C6%A1_logo_Tet_2014.png/revision/latest?cb=20240929133738&path-prefix=vi", VTV Cần Thơ
 http://p1.cvtv.xyz/vtvct?token=live
@@ -34,6 +28,13 @@ http://p1.cvtv.xyz/htv9?token=live
 http://p1.cvtv.xyz/htvtt?token=live
 #EXTINF:-1 group-title="HTV" tvg-id="hanoi1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/HanoiTV1_logo_Tet_2014.png/revision/latest?cb=20240103002143&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=400&time=${start}&offset=${duration}",Hà Nội 1
 http://p1.cvtv.xyz/hn1?token=live
+
+#EXTINF:-1 tvg-id="cartoonnetwork" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/Cartoon_Network_2004.png/revision/latest?cb=20230404102111&path-prefix=vi",Cartoon Network
+http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="disneyjunior" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/Disney_Junior.png/revision/latest?cb=20221214050509&path-prefix=vi",Disney Junior
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+
 
 #EXTINF:-1  tvg-id="N/A" group-title="QUỐC TẾ" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_original.png",Love Nature
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
