@@ -60,8 +60,8 @@ http://thevdm.xyz:25461/timmadden/timmad4765/44122
 #EXTINF:-1 tvg-id="cinemax" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/Cinemax_2012.png/revision/latest?cb=20220416140340&path-prefix=vi",CINEMAX
 http://thevdm.xyz:25461/timmadden/timmad4765/52158
 
-#EXTINF:-1 tvg-id="mir" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/Kia8OEO.png",МИР
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest?cb=20190715122142",HBO
+http://thevdm.xyz:25461/timmadden/timmad4765/52174
 
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ
 http://ott-cdn.ucom.am/s19/04.m3u8
