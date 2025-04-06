@@ -21,7 +21,7 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="disneyjunior" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/Disney_Junior.png/revision/latest?cb=20221214050509&path-prefix=vi",Disney Junior
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vtvctt2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VTV_C%E1%BA%A7n_Th%C6%A1_logo_Tet_2014.png/revision/latest?cb=20240929133738&path-prefix=vi", VTV Cần Thơ
