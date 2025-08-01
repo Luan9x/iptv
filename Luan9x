@@ -30,7 +30,7 @@ http://p1.cvtv.xyz/htvtt?token=live
 http://p1.cvtv.xyz/hn1?token=live
 
 #EXTINF:-1 tvg-id="cartoonnetwork" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/Cartoon_Network_2004.png/revision/latest?cb=20230404102111&path-prefix=vi",Cartoon Network
-http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
+https://84.17.40.25/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="disneyjunior" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/Disney_Junior.png/revision/latest?cb=20221214050509&path-prefix=vi",Disney Junior
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
