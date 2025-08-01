@@ -57,8 +57,8 @@ http://thevdm.xyz:25461/timmadden/timmad4765/43991
 #EXTINF:-1 tvg-id="outdoor" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/Outdoor_logo.png/revision/latest?cb=20231230015004&path-prefix=vi",Outdoor Channel
 http://thevdm.xyz:25461/timmadden/timmad4765/44122
 
-#EXTINF:-1 tvg-id="cinemax" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/Cinemax_2012.png/revision/latest?cb=20220416140340&path-prefix=vi",CINEMAX
-http://thevdm.xyz:25461/timmadden/timmad4765/52158
+#EXTINF:-1 tvg-id="fx" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX East
+http://fl5.moveonjoy.com/FX/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="hbo" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest?cb=20190715122142",HBO
 http://thevdm.xyz:25461/timmadden/timmad4765/52174
