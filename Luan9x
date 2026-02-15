@@ -43,15 +43,16 @@ http://iptv.nhadai.org/stream/htvc-phu-nu
 http://iptv.nhadai.org/stream/htvc-phim
 
 
-#EXTINF:-1 group-title="HTV" tvg-id="thuanviethd" tvg-logo="http://iptv.nhadai.org/img/htvc-thuan-viet.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}", Thuần Việt
+#EXTINF:-1 group-title="HTV" tvg-id="thuanviethd" tvg-logo=" https://static.wikia.nocookie.net/logos/images/f/fd/HTVC_Thu%E1%BA%A7n_Vi%E1%BB%87t_logo_b%E1%BA%A3n_2.png/revision/latest?cb=20241219123602&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}", Thuần Việt
 http://iptv.nhadai.org/stream/htvc-thuan-viet-hd
 
 
 #EXTINF:-1 group-title="HTV" tvg-id="htv9hd" tvg-logo=" http://iptv.nhadai.org/img/htvc-gia-dinh.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}", Gia Đình
 http://iptv.nhadai.org/stream/htvc-gia-dinh
 
-#EXTINF:-1 group-title="HTV" tvg-id="htvthethaohd" tvg-logo=" http://iptv.nhadai.org/img/htvc-plus.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}",HTV Thể thao
-http://iptv.nhadai.org/stream/htv-plus
+#EXTINF:-1 group-title="HTV" tvg-id="htvthethaohd" tvg-logo=" http://iptv.nhadai.org/img/htvc-the-thao.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}",HTV Thể thao
+http://iptv.nhadai.org/stream/htvc-the-thao
+
 #EXTINF:-1 group-title="HTV" tvg-id="hanoi1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/HanoiTV1_logo_Tet_2014.png/revision/latest?cb=20240103002143&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=400&time=${start}&offset=${duration}",Hà Nội 1
 http://iptv.nhadai.org/stream/hanoi1-hd
 
