@@ -19,7 +19,7 @@ http://iptv.nhadai.org/stream/phu-tho
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://logos.fandom.com/vi/wiki/VTV7/Logo_T%E1%BA%BFt", VTV7 HD
 http://iptv.nhadai.org/stream/vtv7-hd
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://logos.fandom.com/vi/wiki/VTV8/Logo_T%E1%BA%BFt", VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/VTV7_HD_Tet_2016%2C_2017%2C_2018.png/revision/latest?cb=20230404022125&path-prefix=vi", VTV8 HD
 http://iptv.nhadai.org/stream/vtv8-hd
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://logos.fandom.com/vi/wiki/VTV9/Logo_T%E1%BA%BFt", VTV9 HD
