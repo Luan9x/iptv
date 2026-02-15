@@ -19,7 +19,7 @@ http://iptv.nhadai.org/stream/phu-tho
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/VTV7_HD_Tet_2016.png/revision/latest?cb=20241215070808&path-prefix=vi", VTV7 HD
 http://iptv.nhadai.org/stream/vtv7-hd
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/65/VTV8_logo_Tet_2016_%2801.02.2016%29.png/revision/latest?cb=20241002103115&path-prefix=vi=vi", VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo=" https://static.wikia.nocookie.net/logos/images/6/65/VTV8_logo_Tet_2016_%2801.02.2016%29.png/revision/latest?cb=20241002103115&path-prefix=vi", VTV8 HD
 http://iptv.nhadai.org/stream/vtv8-hd
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/VTV9_logo_ch%C3%ADnh_T%E1%BA%BFt_2016_b%E1%BA%A3n_2_%2801.02.2016%29.png/revision/latest?cb=20241002103145&path-prefix=vi", VTV9 HD
