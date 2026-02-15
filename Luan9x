@@ -14,8 +14,8 @@ http://iptv.nhadai.org/stream/vtv4-hd
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/VTV5_HD_logo_Tet_2016.png/revision/latest?cb=20221211120119&path-prefix=vi", VTV5 HD
 http://iptv.nhadai.org/stream/vtv5-hd
-#EXTINF:-1 tvg-id="hbtv" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HBTV_logo_Tet_2015.png/revision/latest?cb=20220804110707&path-prefix=vi",HBTV HD
-http://iptv.nhadai.org/stream/phu-tho-hd
+#EXTINF:-1 tvg-id="ptv" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HBTV_logo_Tet_2015.png/revision/latest?cb=20220804110707&path-prefix=vi",HBTV HD
+http://iptv.nhadai.org/stream/phu-tho
 
 
 #EXTINF:-1 tvg-id="vtvctt2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VTV_C%E1%BA%A7n_Th%C6%A1_logo_Tet_2014.png/revision/latest?cb=20240929133738&path-prefix=vi", VTV Cần Thơ
