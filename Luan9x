@@ -17,7 +17,7 @@ http://iptv.nhadai.org/stream/vtv5-hd
 #EXTINF:-1 tvg-id="ptv" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HBTV_logo_Tet_2015.png/revision/latest?cb=20220804110707&path-prefix=vi",HBTV HD
 http://iptv.nhadai.org/stream/phu-tho
 
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/VTV7_HD_logo_Tet_2016.png/revision/latest?cb=20221211120119&path-prefix=vi", VTV7 HD
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://logos.fandom.com/vi/wiki/VTV7/Logo_T%E1%BA%BFt", VTV7 HD
 http://iptv.nhadai.org/stream/vtv7-hd
 
 
