@@ -31,6 +31,23 @@ http://iptv.nhadai.org/stream/vtv-can-tho
 http://iptv.nhadai.org/stream/htv7-hd
 #EXTINF:-1 group-title="HTV" tvg-id="htv9hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/HTV9_logo_Tet_2012%2C_2013.png/revision/latest?cb=20231201025805&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}",HTV9
 http://iptv.nhadai.org/stream/htv9-hd
+
+#EXTINF:-1 group-title="HTV" tvg-id="dulich" tvg-logo="http://iptv.nhadai.org/img/htvc-du-lich.pngx=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}",Du Lịch
+http://iptv.nhadai.org/stream/htvc
+-du-lich
+#EXTINF:-1 group-title="HTV" tvg-id="htv9hd" tvg-logo="https://static.wikia.nocoHTVe.net/logos/images/9/97/HTV9_logo_Tet_2012%2C_2013.png/revision/latest?cb=20231201025805&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}",HTV9
+http://iptv.nhadai.org/stream/htv9-hd
+
+
+#EXTINF:-1 group-title="HTV" tvg-id="htv9hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/HTV9_logo_Tet_2012%2C_2013.png/revision/latest?cb=20231201025805&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}",HTV9
+http://iptv.nhadai.org/stream/htv9-hd
+
+
+#EXTINF:-1 group-title="HTV" tvg-id="htv9hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/HTV9_logo_Tet_2012%2C_2013.png/revision/latest?cb=20231201025805&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}",HTV9
+http://iptv.nhadai.org/stream/htv9-hd
+
+
+
 #EXTINF:-1 group-title="HTV" tvg-id="htvthethaohd" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/HTV_Th%E1%BB%83_thao_logo_Tet_2017.png/revision/latest?cb=20230317035005&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}",HTV Thể thao
 http://iptv.nhadai.org/stream/htv-the-thao-hd
 #EXTINF:-1 group-title="HTV" tvg-id="hanoi1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/HanoiTV1_logo_Tet_2014.png/revision/latest?cb=20240103002143&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=400&time=${start}&offset=${duration}",Hà Nội 1
