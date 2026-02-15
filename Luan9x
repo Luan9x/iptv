@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="vtv1t2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/03/VTV1_HD_logo_ch%C3%ADnh_T%E1%BA%BFt_2015_%2815-16.02.2015%29.png/revision/latest?cb=20241018234001&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://p1.cvtv.xyz/vtv1?token=live
+http://iptv.nhadai.org/stream/vtv1-hd
 #EXTINF:-1 tvg-id="vtv2t2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTV2_HD_Tet_2016.png/revision/latest?cb=20221211120014&path-prefix=vi", VTV2 HD
 http://p1.cvtv.xyz/vtv2?token=live
 
