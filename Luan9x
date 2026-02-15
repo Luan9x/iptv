@@ -19,7 +19,11 @@ http://iptv.nhadai.org/stream/phu-tho
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://logos.fandom.com/vi/wiki/VTV7/Logo_T%E1%BA%BFt", VTV7 HD
 http://iptv.nhadai.org/stream/vtv7-hd
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://logos.fandom.com/vi/wiki/VTV8/Logo_T%E1%BA%BFt", VTV8 HD
+http://iptv.nhadai.org/stream/vtv8-hd
 
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://logos.fandom.com/vi/wiki/VTV9/Logo_T%E1%BA%BFt", VTV9 HD
+http://iptv.nhadai.org/stream/vtv9-hd
 
 #EXTINF:-1 tvg-id="vtvctt2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VTV_C%E1%BA%A7n_Th%C6%A1_logo_Tet_2014.png/revision/latest?cb=20240929133738&path-prefix=vi", VTV Cần Thơ
 http://iptv.nhadai.org/stream/vtv-can-tho
